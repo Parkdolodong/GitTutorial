@@ -14,3 +14,6 @@
 
 - 커밋 내용1
 - 커밋 내용2
+
+## functionA_part1
+- 18라인에 functionA_part1 에 대한 내용 작성 및 수정
